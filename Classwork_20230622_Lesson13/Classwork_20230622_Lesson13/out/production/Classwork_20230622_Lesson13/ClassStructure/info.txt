@@ -1,0 +1,21 @@
+Создайте папку classStructure1
+Создайте классы
+
+- Company
+    - name
+    - Set<Employee>
+    - Set<Department>
+
+- Employee
+    - name
+    - Department(энам)
+    - Position(энам)
+    - double salary
+
+- Info
+    - Map<Position, List<String>>
+    - checker() - на вход сотруника, на выходе String в зависимости от позишн
+    - avgSalaryDep() - на вход Set<Employee>, Department, на выход средняя зп по департаменту
+    - maxSalary() - на вход Set<Employee>, Department, на выход max зп по департаменту + у кого такая зп(имя)
+    - minSalary() - на вход Set<Employee>, Department, на выход min зп по департаменту + у кого такая зп(имя)
+    - getPromotion() - на вход сотрудника. в методе - засетить переход на одну позицию выше и зп на 25% больше.
