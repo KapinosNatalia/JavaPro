@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
         /**
@@ -12,6 +14,21 @@ public class Main {
          * —Переводить в мапу ключ-девелопер а значение максимальная скоросьть авто
          * —записывать в текстовый файл всех девелоперов в формате : Jonn-[auto: BMW ::: salary: 12345] в столбик. Т.е в файле нужна только эта инфа
          */
+        ArrayList<Developer> listOfDevelopers = Generator.generateDevelopersAndCars(5);
+        Processor processor = new Processor();
+        processor.printListOfDevelopers(listOfDevelopers);
+        processor.printMenWithSportcars(listOfDevelopers);
+
+        System.out.println("Группировка машин по полу владельца:");
+        System.out.println(processor.groupCarsByGender(listOfDevelopers));
+
+        System.out.println("Соответствие владельца и максимальной скорости его машины:");
+        System.out.println(processor.generateMapDeveloperSpeed(listOfDevelopers));
+
+        processor.createFileWithInfo(listOfDevelopers);
+
 
     }
+
+
 }
