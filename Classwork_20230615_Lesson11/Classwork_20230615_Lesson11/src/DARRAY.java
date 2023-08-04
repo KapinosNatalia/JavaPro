@@ -35,7 +35,7 @@ public class DARRAY {
          * 3. Отсортировать каждую строку двумерного массива
          * в порядке возрастания и вывести отсортированный массив на экран.
          */
-        for (int[] ints : array) {
+        for  (int[] ints : array) {
             Arrays.sort(ints);
         }
         System.out.println("Array after sorting:");

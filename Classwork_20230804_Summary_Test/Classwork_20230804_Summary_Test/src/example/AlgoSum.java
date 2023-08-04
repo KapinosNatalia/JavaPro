@@ -1,2 +1,4 @@
-package example;public class AlgoSum {
+package example;
+
+public class AlgoSum {
 }
