@@ -5,8 +5,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Main {
-    public static <e> void main(String[] args) {
-
+    public static void main(String[] args) {
         /*
         Задача №1
         Вам дан текстовый файл, содержащий список email-адресов.
@@ -18,7 +17,6 @@ public class Main {
         jane.smith@example.org
         jane.smith@example.net
         */
-
         try {
             File file = new File("task1.txt");
             FileReader fr = new FileReader(file);
@@ -43,12 +41,9 @@ public class Main {
             }
             System.out.println("Task 1:");
             System.out.println(mapOfDomains);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
-
 
         /*
         Задача №2
@@ -65,17 +60,15 @@ public class Main {
             BufferedReader reader = new BufferedReader(fr);
             File fileResult = new File("task2_result.txt");
             FileWriter fw = new FileWriter(fileResult);
-            BufferedWriter wtiter = new BufferedWriter(fw);
+            BufferedWriter writer = new BufferedWriter(fw);
             String line = reader.readLine();
             while (line != null) {
                 line = line.replace("https://", "http://") + "\n";
-                wtiter.write(line);
+                writer.write(line);
                 line = reader.readLine();
             }
-            wtiter.flush();
+            writer.flush();
             System.out.println("Task 2: \nFile written");
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -117,8 +110,6 @@ public class Main {
             }
             System.out.println("Task 3:");
             System.out.println(mapOfProducts);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }

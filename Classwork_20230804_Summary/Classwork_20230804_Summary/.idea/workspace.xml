@@ -5,32 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83842c9e-036f-40d5-8919-27218f38a233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Classwork_20230801_Practice_Lesson18/Classwork_20230801_Practice_Lesson18/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Classwork_20230801_Practice_Lesson18/Classwork_20230801_Practice_Lesson18/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework_20230801/Homework_20230801/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework_20230801/Homework_20230801/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework_20230801/Homework_20230801/task1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework_20230801/Homework_20230801/task2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework_20230801/Homework_20230801/task3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Classwork_20230615_Lesson11/Classwork_20230615_Lesson11/src/DARRAY.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Classwork_20230615_Lesson11/Classwork_20230615_Lesson11/src/DARRAY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/ReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/ReportGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/ReportGeneratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/ReportGeneratorImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/ReportResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/ReportResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/Sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/Sale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/SalesProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Classwork_20230714_summury/Classwork_20230714_summury/src/SalesProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FakerExample/FakerExample/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FakerExample/FakerExample/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FakerExample/FakerExample/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FakerExample/FakerExample/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework_20230713/Homework_20230713/src/main/java/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework_20230713/Homework_20230713/src/main/java/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classwork_20230804_Summary_Test/Classwork_20230804_Summary_Test/Classwork_20230804_Summary_Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -48,7 +42,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
