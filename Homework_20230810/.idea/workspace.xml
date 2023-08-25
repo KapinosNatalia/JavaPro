@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89c5040f-142e-476b-a40d-c382e7633194" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Classwork_20230804_Summary/Classwork_20230804_Summary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classwork_20230804_Summary/Classwork_20230804_Summary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classwork_20230808_UntitTest/Classwork_20230808_UnitTest/Classwork_20230808_UnitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classwork_20230808_UntitTest/Classwork_20230808_UnitTest/Classwork_20230808_UnitTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework_20230801_v2/Homework_20230801_v2/Homework_20230801_v2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework_20230801_v2/Homework_20230801_v2/Homework_20230801_v2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework_20230801_v2/Homework_20230801_v2/out/production/Homework_20230801_v2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework_20230801_v2/Homework_20230801_v2/out/production/Homework_20230801_v2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework_20230801_v2/Homework_20230801_v2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework_20230801_v2/Homework_20230801_v2/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2UGeyr0umF66WYJ4S8l801kU9bg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Natalia/TelRan/JavaPro/Homework_20230810/Homework_20230810"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89c5040f-142e-476b-a40d-c382e7633194" name="Changes" comment="" />
+      <created>1692570602123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692570602123</updated>
+    </task>
+    <servers />
+  </component>
+</project>
