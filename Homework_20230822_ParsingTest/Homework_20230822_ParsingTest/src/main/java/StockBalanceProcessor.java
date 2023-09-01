@@ -119,7 +119,7 @@ public class StockBalanceProcessor {
                 .toList();
     }
 
-    //    *  поместить в три мапу отсортировав в ай ди. #37 - это ай ди
+    //    *  поместить в три мап отсортировав в ай ди. #37 - это ай ди
     public Map<Integer, ProductInfo> convertToTreeMap() {
         Map<Integer, ProductInfo> treeMap = new TreeMap<>();
         stockBalance.getProductsList().stream()
